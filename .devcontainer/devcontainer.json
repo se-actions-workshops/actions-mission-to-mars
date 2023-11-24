@@ -1,0 +1,16 @@
+{
+    "name": "ActionsAdventures",
+    // Configure tool-specific properties.
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "github.vscode-github-actions",
+                "github.copilot",
+                "gitHub.copilot-chat",
+                "gitHub.vscode-pull-request-github",
+                "ms-dotnettools.csdevkit",
+                "ms-python.python"
+            ]
+        }
+    }
+}
