@@ -37,7 +37,7 @@ git clone https://github.com/se-actions-workshops/actions-mission-to-mars
 - A basic understanding of how to navigate GitHub (e.g., how to find the Actions tab, how to open and edit files)
 - Some experience with YAML files, or willingness to learn (as GitHub Actions configurations are written in YAML)
 
-#### Beginner Adventures
+#### Beginner Adventures - Designing the Rocket
 
 - [Building a workflow with GitHub Actions](./Adventures/1-Beginner/123.md)
 - [Building an application with GitHub Actions](./Adventures/1-Beginner/456.md)
@@ -45,7 +45,7 @@ git clone https://github.com/se-actions-workshops/actions-mission-to-mars
 - [Configure your deployment environments in GitHub](./Adventures/1-Beginner/)
 - [Automating and deploying workflows with GitHub Actions](./Adventures/1-Beginner/)
 
-#### Intermediate Adventures
+#### Intermediate Adventures - Assembling the Rocket
 
 - [Provision a runner group in GitHub Actions](./Adventures/2-Intermediate/123.md)
 - [Create reusable workflows in GitHub Actions](./Adventures/2-Intermediate/123.md)
@@ -53,7 +53,7 @@ git clone https://github.com/se-actions-workshops/actions-mission-to-mars
 - [Advanced testing automation strategies with GitHub Actions](./Adventures/2-Intermediate/123.md)
 - [Advanced automated deployment strategies with GitHub Actions](./Adventures/2-Intermediate/123.md)
 
-#### Advanced Adventures
+#### Advanced Adventures - Launching to Mars
 
 - [Enterprise workflow automation at scale](./Adventures/3-Advanced/123.md)
 - [Planning for migration to GitHub Actions](./Adventures/3-Advanced/123.md)
